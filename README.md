@@ -1,7 +1,7 @@
 # kailoon
 I'm a frontend developer with [design](https://dribbble.com/kailoon) background.
 
-I enjoy building digital products that either solve problems or entertain people.
+I enjoy building accessible digital products that either solve problems or entertain people.
 
 I'm self driven, hard working and easy going.
 
@@ -38,6 +38,13 @@ I have experiences working with RoR developer, WordPress developer & iOS App dev
 * React
 * HTML
 * CSS & SCSS
+* PHP
+
+**Tools**
+* VSCode
+* Vi ( Begennier Level )
+* Figma / Adobe XD
+* Valet
 * Twitter Bootstrap
 * TailwindCSS
 * WordPress

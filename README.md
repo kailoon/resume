@@ -1,9 +1,5 @@
 # kailoon
-I'm a frontend developer with [design](https://dribbble.com/kailoon) background.
-
-I enjoy building accessible digital products that either solve problems or entertain people.
-
-I'm self driven, hard working and easy going.
+I'm a frontend developer with [design](https://dribbble.com/kailoon) background. I enjoy building accessible digital products that either solve problems or entertain people. I'm self driven, hard working and easy going.
 
 ## Experience:
 ### Envato (2008 - present)

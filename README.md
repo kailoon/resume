@@ -1,7 +1,7 @@
 # kailoon
-I'm a developer, with a background as a UI designer.
+I'm a frontend developer with [design](https://dribbble.com/kailoon) background.
 
-I enjoy building digital products that either solve problems or entertain people. Preferrably in Javascript or Ruby.
+I enjoy building digital products that either solve problems or entertain people.
 
 I'm self driven, hard working and easy going.
 
@@ -28,15 +28,16 @@ Freom design to HTML/CSS. The home of international cement review.
 ### wynntechstar
 This is a small client project using Grav, nunjucks and blendid.
 
-## Technical skills:
+### Project experiences:
+I have experiences working with RoR developer, WordPress developer & iOS App developer.
 
-**Languages:**
+## Technical skills:
+**I write/do**
 
 * Javascript
-
-**Front-end:**
-
+* React
 * HTML
-* CSS & Sass
+* CSS & SCSS
 * Twitter Bootstrap
 * TailwindCSS
+* WordPress

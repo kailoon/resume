@@ -48,3 +48,4 @@ I have experiences working with RoR developer, WordPress developer & iOS App dev
 * Twitter Bootstrap
 * TailwindCSS
 * WordPress
+* Git

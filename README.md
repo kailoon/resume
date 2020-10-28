@@ -28,20 +28,21 @@ This is a small client project using Grav, nunjucks and blendid.
 I have experiences working with RoR developer, WordPress developer & iOS App developer.
 
 ## Technical skills:
-**I write/do**
+**Front End**
 
-* Javascript
+* Javascript(ES6+)
 * React
-* HTML
-* CSS & SCSS
-* PHP
+* HTML5
+* CSS3
+* SCSS
+* BootStrap
+* TailWindCSS
+* JSON
+* Web
 
-**Tools**
-* VSCode
-* Vi ( Begennier Level )
-* Figma / Adobe XD
-* Valet
-* Twitter Bootstrap
-* TailwindCSS
-* WordPress
+**Others**
 * Git
+* WordPress
+* Vim
+* Figma / Adobe XD
+* Laravel Valet

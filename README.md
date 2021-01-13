@@ -19,7 +19,7 @@ As a CSS Designer. Ad-units design, Web design, graphic Design, CSS/HTML.
 From design to WordPress integration. Tech news, the latest and coolest gadgets and gizmos on the internet. Walyou is the place to get your geek on.
 
 ### cemnet
-Freom design to HTML/CSS. The home of international cement review.
+From design to HTML/CSS. The home of international cement review.
 
 ### wynntechstar
 This is a small client project using Grav, nunjucks and blendid.
